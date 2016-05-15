@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Investing]]></title>
+        <description><![CDATA[Investing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 03:04:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FreeGoldInvestmentGuide.com - Get Your FREE Gold Investment Guide]]></title>
+            <description><![CDATA[<article><h1>FreeGoldInvestmentGuide.com - Get Your FREE Gold Investment Guide</h1><p>"In the history of the world, gold has outperformed every currency on earth..." Why Invest in Real Gold Bullion - Instead of Gambling on Non-Existent Leveraged "Paper" Gold?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a68f60a73e7d35c48d0c06c87a92a02bb67ba53.jpg"></article>]]></description>
+            <link>http://freegoldinvestmentguide.com/</link>
+            <guid isPermaLink="false">0795fb08-183f-43d9-9789-4d36213a8074</guid>
+            <pubDate>Sun, 15 May 2016 03:04:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
